@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	Hello world! TEST25
+	Hello world! TEST26
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
